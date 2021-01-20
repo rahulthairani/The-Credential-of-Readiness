@@ -20,6 +20,18 @@ Business Analytics will help demystify data and strengthen your analytical skill
 
 Business Analytics introduces quantitative methods used to analyze data and make better management decisions. This course is not based on rote memorization of equations or facts, but focuses on honing your understanding of key concepts, your managerial judgment, and your ability to apply course concepts to real business problems.
 
+### Modules
+
+  - Describing and Summarizing Data
+  
+  - Sampling and Estimation
+  
+  - Hypothesis Testing
+  
+  - Single Variable Linear Regression
+  
+  - Multiple Regression
+
 ### What you'll learn
 
   - Interpret data to inform business decisions
@@ -46,6 +58,18 @@ Economics for Managers will enable you to drive critical business decisions. Exp
 
 Economics for Managers applies fundamental economic principles to real-world business challenges. You will dive into topics like customer demand, supplier cost, markets, and competition. You will learn how businesses think about pricing, production, and differentiation. In the process, you will learn how to develop the beginnings of a competitive strategy that will lead to a business thriving over time.
 
+### Modules
+
+  - Customer Demand: Foundations
+  
+  - Strategies for Assessing and Increasing Demand
+  
+  - Suppliers and Cost
+  
+  - Markets 
+  
+  - Competition and Differentiation
+
 ### What you'll learn
 
   - Develop effective pricing strategies
@@ -69,6 +93,22 @@ Discover What's Behind the Numbers in Financial Statements
 Financial Accounting teaches key accounting concepts and principles to illuminate financial statements and unlock critical insights into business performance and potential. Explore how managers, Wall Street analysts, and entrepreneurs leverage accounting to drive strategic decision-making.
 
 Financial Accounting will teach you the fundamentals of financial accounting from the ground up. You will learn how to prepare a balance sheet, income statement, and cash flow statement, analyze financial statements, and calculate and interpret critical ratios. You will also learn the role of managerial judgment in choosing accounting estimates and methods. The course concludes with an introduction to forecasting and valuation.
+
+### Modules
+
+  - The Accounting Equation
+  
+  - Recording Transactions
+  
+  - Financial Statements
+  
+  - Adjusting Journal Entries
+  
+  - The Statement of Cash Flows
+  
+  - Analyzing Financial Stetements
+  
+  - Forecasting and Valuation
 
 ### What you'll learn
 
