@@ -62,6 +62,8 @@ Economics for Managers consists of approximately 60 hours of material delivered 
 
 ## Financial Accounting
 
+**[Financial Accounting - Harvard Business School Online](https://online.hbs.edu/courses/financial-accounting/ "Program Description")**
+
 Discover What's Behind the Numbers in Financial Statements
 
 Financial Accounting teaches key accounting concepts and principles to illuminate financial statements and unlock critical insights into business performance and potential. Explore how managers, Wall Street analysts, and entrepreneurs leverage accounting to drive strategic decision-making.
