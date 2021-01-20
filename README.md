@@ -1,1 +1,1 @@
-# The-Credential-of-Readiness
+# The Credential of Readiness
