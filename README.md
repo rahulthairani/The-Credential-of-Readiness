@@ -35,3 +35,49 @@ Business Analytics introduces quantitative methods used to analyze data and make
   - Implement regression analysis and other analytical techniques in Excel
 
 Business Analytics consists of approximately 40 hours of material delivered over an eight-week period.
+
+## Economics for Managers
+
+**[Economics for Managers - Harvard Business School Online](https://online.hbs.edu/courses/economics-for-managers/ "Program Description")**
+
+Gain the Knowledge and Skills Needed to Craft Successful Business Strategy
+
+Economics for Managers will enable you to drive critical business decisions. Explore how businesses approach pricing strategy, evaluate market demand, and differentiate their offerings, and how you can apply those learnings to compete in the marketplace successfully.
+
+Economics for Managers applies fundamental economic principles to real-world business challenges. You will dive into topics like customer demand, supplier cost, markets, and competition. You will learn how businesses think about pricing, production, and differentiation. In the process, you will learn how to develop the beginnings of a competitive strategy that will lead to a business thriving over time.
+
+### What you'll learn
+
+  - Develop effective pricing strategies
+  
+  - Benchmark costs compared to competitors through relative cost analysis
+  
+  - Apply conjoint analysis to understand what features customers value most
+  
+  - Understand the power of network effects to drive demand
+  
+  - Identify sources of competitive advantage through differentiation
+  
+Economics for Managers consists of approximately 60 hours of material delivered over an eight-week period
+
+## Financial Accounting
+
+Discover What's Behind the Numbers in Financial Statements
+
+Financial Accounting teaches key accounting concepts and principles to illuminate financial statements and unlock critical insights into business performance and potential. Explore how managers, Wall Street analysts, and entrepreneurs leverage accounting to drive strategic decision-making.
+
+Financial Accounting will teach you the fundamentals of financial accounting from the ground up. You will learn how to prepare a balance sheet, income statement, and cash flow statement, analyze financial statements, and calculate and interpret critical ratios. You will also learn the role of managerial judgment in choosing accounting estimates and methods. The course concludes with an introduction to forecasting and valuation.
+
+### What you'll learn
+
+  - Discover how balance sheets, income statements, and cash flow statements are developed and how each interact
+  
+  - Evaluate the financial health of a business using financial statements
+  
+  - Understand GAAP and IFRS standards
+  
+  - Prepare and evaluate financial forecasts to make strategic decisions
+  
+  - Value a venture, project, or investment opportunity and perform a sensitivity analysis
+  
+Financial Accounting consists of approximately 60 hours of material delivered over an eight-week period.
