@@ -14,7 +14,7 @@ CORe consists of three courses—Business Analytics, Economics for Managers, and
 
 **[Business Analytics - Harvard Business School Online](https://online.hbs.edu/courses/business-analytics/ "Program Description")**
 
-Apply Fundamental Data Analysis to Real Business Problems.
+#### Apply Fundamental Data Analysis to Real Business Problems.
 
 Business Analytics will help demystify data and strengthen your analytical skills. Beginning with basic descriptive statistics and progressing to regression analysis, you’ll implement analytical techniques in Excel and apply fundamental quantitative methods to real business problems—from performing A/B testing on a website to using sampling to check warehouse inventory.
 
@@ -52,7 +52,7 @@ Business Analytics consists of approximately 40 hours of material delivered over
 
 **[Economics for Managers - Harvard Business School Online](https://online.hbs.edu/courses/economics-for-managers/ "Program Description")**
 
-Gain the Knowledge and Skills Needed to Craft Successful Business Strategy
+#### Gain the Knowledge and Skills Needed to Craft Successful Business Strategy
 
 Economics for Managers will enable you to drive critical business decisions. Explore how businesses approach pricing strategy, evaluate market demand, and differentiate their offerings, and how you can apply those learnings to compete in the marketplace successfully.
 
@@ -88,7 +88,7 @@ Economics for Managers consists of approximately 60 hours of material delivered 
 
 **[Financial Accounting - Harvard Business School Online](https://online.hbs.edu/courses/financial-accounting/ "Program Description")**
 
-Discover What's Behind the Numbers in Financial Statements
+#### Discover What's Behind the Numbers in Financial Statements
 
 Financial Accounting teaches key accounting concepts and principles to illuminate financial statements and unlock critical insights into business performance and potential. Explore how managers, Wall Street analysts, and entrepreneurs leverage accounting to drive strategic decision-making.
 
