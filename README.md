@@ -14,7 +14,7 @@ CORe consists of three courses—Business Analytics, Economics for Managers, and
 
 **[Business Analytics - Harvard Business School Online](https://online.hbs.edu/courses/business-analytics/ "Program Description")**
 
-#### Apply Fundamental Data Analysis to Real Business Problems.
+#### Apply Fundamental Data Analysis to Real Business Problems
 
 Business Analytics will help demystify data and strengthen your analytical skills. Beginning with basic descriptive statistics and progressing to regression analysis, you’ll implement analytical techniques in Excel and apply fundamental quantitative methods to real business problems—from performing A/B testing on a website to using sampling to check warehouse inventory.
 
