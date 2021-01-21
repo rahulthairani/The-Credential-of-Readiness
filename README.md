@@ -1,6 +1,6 @@
 # The Credential of Readiness (CORe)
 
-**[The Credential of Readiness (CORe) - Harvard Business School Online](https://online.hbs.edu/courses/core/ "Program Description")**
+**[The Credential of Readiness - Harvard Business School Online](https://online.hbs.edu/courses/core/ "Program Description")**
 
 Master Business Essentials with Harvard Business School's Online CORe Program
 
