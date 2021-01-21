@@ -1,4 +1,4 @@
-# The Credential of Readiness
+# The Credential of Readiness (CORe)
 
 **[The Credential of Readiness - Harvard Business School Online](https://online.hbs.edu/courses/core/ "Program Description")**
 
